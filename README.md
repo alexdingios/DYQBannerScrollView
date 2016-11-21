@@ -1,4 +1,5 @@
-# DYQBannerScrollView
+# DYQBannerScrollView 展示广告滚动视图
+- 由于本人学识有限 如果有不对的地方 欢迎指出 谢谢,如果你觉得好用 请star 谢谢
 ```
 /**imagesUrl(本地/网络)***/
 @property (strong,nonatomic) NSArray *imageUrls;
